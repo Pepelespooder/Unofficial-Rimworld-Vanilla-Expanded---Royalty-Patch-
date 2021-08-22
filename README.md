@@ -4,3 +4,5 @@ Their Is a Problem currently At least at the time of posting relating to the Van
 The fix Should be dropped in The Rimworld Vanilla Expanded - Royalty Patch Folder at the path `` 294100\2260012940\1.3\Patches `` located in your steam workshop content for Rimworld 
 I have Done nothing other than remove the Outdated line that calls The esquire Title that links the Viking Royalty To Fur beds. Seems to be Removed from the game so it Fails to apply 
 the patch because of that .
+
+I Own Absolutely Nothing Of this Code and Simply Only modified to help, this is not for monetary gain. Do with it as your will.
