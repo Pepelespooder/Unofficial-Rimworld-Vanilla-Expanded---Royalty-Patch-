@@ -1,5 +1,5 @@
 # Unofficial-Rimworld-Vanilla-Expanded---Royalty-Patch-
-Their Is a Problem currently At least at the time of posting relating to the VanillaFactionExpandedVikings_Patches.xml. This is A unnofficial Fix created by me.
+Their Is a Problem currently At least at the time of posting relating to VanillaFactionExpandedVikings_Patches.xml and VanillaCookingExpanded_patches.xml . This is A unnofficial Fix created by me.
 
 --How to Install? --
 --
