@@ -3,7 +3,7 @@ Their Is a Problem currently At least at the time of posting relating to the Van
 
 --How to Install? --
 --
-The fix Should be dropped in The Rimworld Vanilla Expanded - Royalty Patch Folder at the path `` 294100\2260012940\1.3\Patches `` located in your steam workshop content for Rimworld 
+The fixes Should be dropped in The Rimworld Vanilla Expanded - Royalty Patch Folder at the path `` 294100\2260012940\1.3\Patches `` located in your steam workshop content for Rimworld 
 
 -- Whats changed --
 --
