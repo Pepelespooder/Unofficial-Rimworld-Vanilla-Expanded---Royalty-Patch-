@@ -1,8 +1,9 @@
 # Unofficial-Rimworld-Vanilla-Expanded---Royalty-Patch-
-Their Is a Problem currently At least at the time of posting relating to VanillaFactionExpandedVikings_Patches.xml and VanillaCookingExpanded_patches.xml . This is A Unofficial Fix created by me. 
+Fixed But keeping here for my own use
 Warning patch is now DEFUNCT Has been officially fixed by kikohi
 --
 This is kept here only for my own code sake to remember what I did for the future
+
 --How to Install? --
 --
 The fixes Should be dropped in The Rimworld Vanilla Expanded - Royalty Patch Folder at the path `` 294100\2260012940\1.3\Patches `` located in your steam workshop content for Rimworld 
