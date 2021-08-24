@@ -1,5 +1,7 @@
 # Unofficial-Rimworld-Vanilla-Expanded---Royalty-Patch-
-Fixed But keeping here for my own use
+
+Fixed But keeping here for remembering what I did Exactly
+
 Warning patch is now DEFUNCT Has been officially fixed by kikohi
 --
 This is kept here only for my own code sake to remember what I did for the future
